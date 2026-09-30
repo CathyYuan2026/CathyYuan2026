@@ -1,16 +1,22 @@
-## Hi there 👋
+# Cathy Yuan, CPA, CGA, CIA, MBA
 
-<!--
-**CathyYuan2026/CathyYuan2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance professional with 20+ years of experience in FP&A, financial analysis, budgeting and forecasting, financial modeling, accounting, internal controls, and finance transformation.
 
-Here are some ideas to get you started:
+I am particularly interested in the practical application of AI to finance and accounting — combining AI efficiency with professional judgment, financial controls, and human review.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Focus
+
+- FP&A and Financial Modeling
+- Budgeting and Forecasting
+- Cash Flow and Scenario Analysis
+- Financial Analysis and Management Reporting
+- AI for Finance and Accounting
+- Finance Process Improvement
+- ERP and Finance Transformation
+- Corporate Accounting
+
+## Current Interests
+
+I am exploring how AI can support finance professionals in areas such as financial analysis, forecasting, accounting workflows, document review, and decision support.
+
+My goal is not to replace professional judgment with AI, but to use AI to reduce repetitive work and give finance professionals more time for analysis, judgment, and higher-value decisions.
